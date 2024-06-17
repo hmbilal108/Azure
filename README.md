@@ -5,5 +5,6 @@
 - azure 54 regions (where you can store your application, where u can run your application)
 - open source k products k sath aws bohat acha kam krta ha
 - microsoft kk products k sath azure bohat acha kam krta ha
+AWS certification is easier than azure
 
 
